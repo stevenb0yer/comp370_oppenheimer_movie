@@ -1,0 +1,24 @@
+# counts_by_movie_with_rates
+movie,count,days_since_start,posts_per_day_since_start
+barbie,131,878,0.1492027334851936
+indiana_jones,116,878,0.13211845102505695
+mi7,110,878,0.1252847380410023
+oppenheimer,166,878,0.18906605922551253
+sound_of_freedom,12,878,0.01366742596810934
+
+# counts_by_movie_and_subreddit
+movie,subreddit,count
+barbie,TrueFilm,30
+barbie,flicks,13
+barbie,movies,88
+indiana_jones,TrueFilm,4
+indiana_jones,flicks,15
+indiana_jones,movies,97
+mi7,TrueFilm,9
+mi7,flicks,14
+mi7,movies,87
+oppenheimer,TrueFilm,35
+oppenheimer,flicks,27
+oppenheimer,movies,104
+sound_of_freedom,TrueFilm,1
+sound_of_freedom,movies,11
